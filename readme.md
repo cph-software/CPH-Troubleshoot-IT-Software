@@ -80,4 +80,6 @@ Dilakukan **setiap hari** dalam seminggu (Senin-Sabtu):
 | Lupa Awali | Di atas 16.00 | Ubah tanggal → Kill app → Login → Sales awali → Reset otomatis |
 | Lupa Akhiri | Sebelum 08.00 | Ubah tanggal → Kill app → Login → Sales akhiri → Reset otomatis |
 
-**Tips:** Selalu tanyakan hari dan tanggal kejadian sebelum melakukan troubleshooting!
+**Tips:** 
+- Selalu tanyakan hari dan tanggal kejadian sebelum melakukan troubleshooting!
+- Password pengaturan cek grup
